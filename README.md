@@ -2,4 +2,4 @@
 
 Numerical Optimisation project made in python using matplotlib, deap and simanneal
 
-![image](https://user-images.githubusercontent.com/80677312/230740646-820f4814-a2dd-4c58-9e43-5b61da14b446.png)
+![image](https://user-images.githubusercontent.com/80677312/230740951-065026e8-e557-443b-9baf-63b2e6a4ab8d.png)
