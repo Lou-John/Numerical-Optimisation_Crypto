@@ -1,5 +1,3 @@
-Sure, here is the README in English:
-
 ## Crypto Portfolio Management | Python, Matplotlib, Deap, Simanneal
 
 **Description:**
