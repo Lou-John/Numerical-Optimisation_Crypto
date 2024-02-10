@@ -21,14 +21,10 @@ This project proposes a cryptocurrency portfolio optimization simulation using t
 
 * **Installation:** `pip install -r requirements.txt`
 * **Execution:** `python main.py`
-* **Options:**
-    * `-f`: Historical price data file (CSV format)
-    * `-o`: Output file for results
-
 **Example:**
 
 ```python
-python main.py -f data.csv -o results.csv
+python main.py
 ```
 
 **License:**
