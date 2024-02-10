@@ -42,6 +42,7 @@ This project is licensed under MIT.
 * Feel free to contribute to the project by submitting pull requests.
 
 I hope this is helpful!
+
 Pdf end of project analysis:
 [56640_Loujohn_Genthon_Assignement_Documentation_195393_186812911.pdf](https://github.com/Lou-John/Numerical-Optimisation---Crypto/files/11184259/56640_Loujohn_Genthon_Assignement_Documentation_195393_186812911.pdf)
 
